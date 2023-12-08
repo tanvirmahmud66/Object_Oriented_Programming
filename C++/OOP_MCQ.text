@@ -1,0 +1,47 @@
+1. who invent OOP - Alan Kay
+2. Which was the first purely object oriented programming language developed? - SmallTalk
+3. When OOP concept did first came into picture? - 1970'
+4. Why Java is Partially OOP language? - It supports usual declaration of primitive data types
+5. The feature by which one object can interact with another object is - message passing
+6. When a default constructor is defined and another constructor with 1 default value argument is defined, 
+   creating object without parameter will create ambiguity for the compiler. - compilation error
+7. Which among the following can show polymorphism? - Overloading <<
+8. Overloading is type of polymorphism.
+9. The copy constructors can be used to - Copy an object so that it can be passed to a function
+10. What happens when an object is passed by reference? - Destructor is not called
+11. Which access specifier is usually used for data members of a class? - private
+12. How to access data members of a class? - Dot or arrow as required
+13. Which feature of OOP reduces the use of nested classes? - Inheritance
+14. Which keyword among the following can be used to declare an array of objects in java? - new
+15. Which operator can be used to free the memory allocated for an object in C++? - delete
+16. Which of the following is not a property of an object? - Names
+17. Single level inheritance supports - runtime
+18. How to overcome diamond problem? - Using virtual keyword with same name function
+19. Which keyword is used to declare virtual functions? - virtual
+20. What happens if non static members are used in static member function? - Compile time error
+21. What is friend member functions in C++? - Non-member functions which have access to all the members (including private) of a class
+22. Where is the memory allocated for the objects? - RAM
+23. Encapsulation and abstraction differ as ____________ Binding and Hiding respectively
+24. Which feature of OOP is exhibited by the function overriding? - Polymorphism
+25. How to access the private member function of a class? - Using address of member function
+26. Which is correct syntax for declaring pointer to object? - className* objectName;
+27. Which among the following is not a necessary condition for constructors? - It must contain a definition body
+28. Object being passed to a copy constructor ___________ Must be passed by reference
+29. The destructors are always called in the reverse order of how the constructors were called
+30. Instance of which type of class can’t be created? - Abstract class
+31. Virtual Function - the feature of Polymorphism in a class.
+32. Which feature in OOP is used to allocate additional functions to a predefined operator in any language? - Operator Overloading
+33. Abstraction - feature can be implemented using encapsulation?
+34. Overloading is also known as Ad-hoc polymorphism.
+35. Virtual function mainly used to achieve - Runtime polymorphism.
+36. Virtual functions should be defined in the - base class.
+37. Virtual functions should be - public.
+38. Constructor function cannot be - constant
+39. Dynamic memory allocation can be done using both - calloc() and malloc().
+40. Generic class is also known as a - template class.
+41. * can be overloaded using the friend function.
+42. The object cannot be passed as a function.
+43. Virtual function - is used to implement - late binding.
+44. cout is an - object.
+45. fopen is used to open a file in C++.
+46. The fopen() function returns a pointer to a FILE object.

@@ -1,0 +1,12 @@
+1. The range of int is from -(2^31) to (2^31) - 1.
+2. BEDMAS tells us that brackets are the highest priority, then exponents, then both divi- sion and multiplication, and finally addition and subtraction. 
+3. a[3] in C is equivalent to *(a + 3) in pointer notation.
+4. The disadvantage of arrays - is that the amount of memory to be allocated needs to be known beforehand.
+5. The printf function returns the number of characters printed to the standard output
+6. int x:8 - statement defines x as an 8-bit integer.
+7. Do-while loop is an exit controlled loop.
+8. The int data type in C is of 4 bytes.
+9. p is an integer pointer with a value 1000, then what will the value of p + 5 be? - size of an integer is 4bytes, p + 5 will be at value 1000+5 * 4 = 1020.
+10. bool data type cannot be used in C without including the stdbool.h header.
+11. Which of the following are correct file opening modes in C? - r , rb, w
+12. bitwise shift operators. (x << 1) is equivalent to x * 2 and (x >> 1) is equivalent to x / 2
