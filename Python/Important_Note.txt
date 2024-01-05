@@ -1,0 +1,7 @@
+1. Python does not support method overloading
+2. Constructors in Python are limited in their functionality compared to constructors in other programming languages
+3. Python does not have constructors with access modifiers like public, private or protected.
+4. Python has a garbage collector that handles memory management automatically. 
+5. __del__() method is a known as a destructor method in Python.
+6. There are 5 different types of inheritance in Python
+7. the protected variable can be accessed out of the class as well as in the derived class
