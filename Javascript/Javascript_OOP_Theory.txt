@@ -1,0 +1,6 @@
+1. Javascript is Prototype-base object oriented programming langauge
+2. Like other language Raw Javascript have no classes only object but in ES6/7 have class
+3. classes provided by ECMA2015 are objects
+4. there are no such access modifiers in JavaScript
+5. most of the OOP languages where classes inherit classes, JavaScript Objects inherit Objects
+
